@@ -1,5 +1,5 @@
 ## 개발 환경
-- OS : MAC OS
+- OS : Window10
 - IDE : Intellij
 
 ## 개발 프레임워크
